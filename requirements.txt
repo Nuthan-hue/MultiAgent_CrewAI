@@ -1,3 +1,6 @@
 crewai
 langchain-groq
 litellm
+langchain-community
+duckduckgo-search
+ddgs
